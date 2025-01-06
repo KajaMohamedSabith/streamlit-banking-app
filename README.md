@@ -64,12 +64,6 @@ How to Use :-
   - Choose an option (Deposit, Withdraw, Check Balance) from the radio button menu.
   - Follow the instructions to complete your operation.
 
-Project Structure :-
-  streamlit-banking-app/
-  ├── app.py               # Main application file
-  ├── requirements.txt     # Dependencies
-  ├── README.md            # Project overview (this file)
-
 Future Improvements :-
   - Add transaction history for each user.
   - Implement a password recovery feature.
